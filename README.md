@@ -6,7 +6,7 @@ Try to keep lines <= 80 columns long
 
 ## Declaring Functions
 
-### Unless the function is "trivial"[^trivial], put the parameters vector on its own line
+### Unless the function is "trivial"¹, put the parameters vector on its own line
 
 ```clojure
 ; OKAY
@@ -23,7 +23,7 @@ Try to keep lines <= 80 columns long
     (println thing)))
 ```
 
-[^trivial]: Where "trivial" is deliberately left subjective
+¹: Where "trivial" is deliberately left subjective
 
 ## Namespaces
 
