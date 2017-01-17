@@ -2,7 +2,7 @@
 
 ## General Style
 
-Try to keep lines <= 80 columns long
+Try to keep lines ≤ 80 columns long
 
 ## Declaring Functions
 
